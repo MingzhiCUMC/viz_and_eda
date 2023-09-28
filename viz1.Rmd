@@ -1,6 +1,6 @@
 ---
 title: "viz1"
-output: html_document
+output: github_document
 date: "2023-09-28"
 ---
 
